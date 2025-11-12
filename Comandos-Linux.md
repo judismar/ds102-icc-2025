@@ -96,5 +96,13 @@ cp -r * ../clecio/
 
 ### Verificar se a cópia foi bem sucedida
 cd ../clecio
+
 ls -la
 
+## Remover arquivos e pastas
+
+### Removendo arquivos
+rm arquivo1 arquivo2 arquivo3
+
+### Removendo pasta
+rm -r nome_pasta
